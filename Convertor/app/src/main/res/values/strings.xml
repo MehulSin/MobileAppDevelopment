@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="farenheittocelsius">Fahrenheit to Celsius</string>
+    <string name="celsiustofarenheit">Celsius to Farenheit</string>
+    <string name="equals">=</string>
+    <string name="conversion">Conversion:</string>
+    <string name="Convert">Convert</string>
+</resources>

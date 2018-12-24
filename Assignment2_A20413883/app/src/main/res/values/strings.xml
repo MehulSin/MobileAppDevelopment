@@ -1,0 +1,10 @@
+<resources>
+    <string name="applicationname">MultiNotes</string>
+    <string name="info_copyright">© 2018, Mehul Singh</string>
+    <string name="version">Version 1.0</string>
+    <string name="information">Informations</string>
+    <string name="add_note">Add Note</string>
+    <string name="savetitleicon" >Save</string>
+    <string name="jsonfilename">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+</resources>
